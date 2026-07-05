@@ -127,7 +127,7 @@ For major changes, please open an issue first to discuss what you’d like to ch
 
 ## 🌟 Show Your Support
 
-If you like the project, give it a ⭐ on [GitHub](https://github.com/Aagam/hectoclash)!
+If you like the project, give it a ⭐ on [GitHub](https://github.com/aagamjn13/HectoClash)!
 
 ---
 
