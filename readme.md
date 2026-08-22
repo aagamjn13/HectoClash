@@ -1,5 +1,7 @@
 # HectoClash 🧪⚡
 
+**Live Demo:** [https://hectoclash-aagam.onrender.com/](https://hectoclash-aagam.onrender.com/)
+
 A real-time, math-based duel game built using the **MERN stack** (MongoDB, Express, React, Node.js) with **Redux** for state management. Challenge your friends or compete with players around the world in fast-paced 1v1 math battles!
 
 ---
