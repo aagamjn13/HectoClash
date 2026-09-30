@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 import sequences from "../data/sequences.json";
 import "./GameLobby.css";
 
-const socket = io("http://localhost:5000");
+const socket = io(import.meta.env.PROD ? "/" : "http://localhost:5000");
 
 const GameLobby = () => {
   const navigate = useNavigate();
